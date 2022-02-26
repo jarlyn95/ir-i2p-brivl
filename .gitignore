@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+evaluation
+dataset
+data/jsonls
+baike_14014334_0.jpg
+baike_14361859_0.jpg
+baike_14708276_0.jpg
