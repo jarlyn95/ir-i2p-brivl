@@ -1,5 +1,6 @@
 # 基于BriVL模型实现图片检索绝句诗
 ## 1. [预训练模型](https://wudaoai.cn/model/detail/BriVL#download)
+下载预模型需要提交在线申请  
 下载的预训练模型建议存放为`../BriVL-pretrain-model/BriVL-1.0-5500w.pth`
 ## 2. 本实现参考了代码[BriVlL推理源码](https://github.com/BAAI-WuDao/BriVlL)
 ## 3. 绝句诗来源于[CCPC](http://github.com/THUNLP-AIPoet/Datasets/tree/master/CCPC)
